@@ -22,7 +22,7 @@ Pfam domains: BAH, PHD, SET, Bromodomain (BAH PF01426 2661-2798, Bromodomain PF0
 [Histone H3K36me2-Specific Methyltransferase **ASH1L** Promotes MLL-AF9-Induced Leukemogenesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8534482/)
 
 
-## Выравнивания
+## Выравнивания (MEGAX)
 
 ### H2A
 Есть 2 ярковыраженные группы: 1-13 и 23-41, они являются копиями. Остальные немного отличаются.
