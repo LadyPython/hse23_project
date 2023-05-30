@@ -6,6 +6,10 @@ Product: H3K36me
 
 Fucntion: Histone modification write
 
+Protein complex: #
+
+Pfam domains: BAH, PHD, SET, Bromodomain (BAH PF01426 2661-2798, Bromodomain PF00439 2453-2538, PHD PF00628 2587-2631, Pfam-B_14208 PB014208 1818-1847, Pfam-B_18246 PB018246 2310-2419, Pfam-B_25586 PB025586 1473-1507, Pfam-B_4663 PB004663 1023-1054 1180-1377, Pfam-B_6310 PB006310 1509-1554, SET PF00856 2156-2261)
+
 \
 [Crystal Structure of the Human Histone Methyltransferase **ASH1L** Catalytic Domain and Its Implications for the Regulatory Mechanism](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3048721/):
 > This observation is also consistent with the notion that hASH1L specifically methylates H3K36
@@ -16,7 +20,6 @@ Fucntion: Histone modification write
 [**ASH1L** Links Histone H3 Lysine 36 di-methylation to MLL Leukemia](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4930721/)
 
 [Histone H3K36me2-Specific Methyltransferase **ASH1L** Promotes MLL-AF9-Induced Leukemogenesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8534482/)
-
 
 
 ## Выравнивание
