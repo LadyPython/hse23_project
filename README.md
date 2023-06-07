@@ -21,6 +21,14 @@ Pfam domains: BAH, PHD, SET, Bromodomain (BAH PF01426 2661-2798, Bromodomain PF0
 
 [Histone H3K36me2-Specific Methyltransferase **ASH1L** Promotes MLL-AF9-Induced Leukemogenesis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8534482/)
 
+ASH1L относится к группе транскрипционных активаторов Trithorax. 
+Он локализуется в мелких пятнышках в ядре, а также в межклеточных контактах. 
+
+Заболевания, связанные с ASH1L включают нарушение интеллектуального развития и различные виды рака (лейкемия, неходжкинская лимфома и другие).
+
+Экспрессируется в различных тканях, в основном в мозге, яичниках и щитовидной железе.
+![gene-exp-plot (2)](https://github.com/LadyPython/hse23_project/assets/6313540/d50b521c-eb41-4178-974e-ece883e70c5f)
+
 
 ## Выравнивания (MEGAX)
 
